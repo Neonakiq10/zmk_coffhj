@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=bnA4d6uEKS0 - Video demonstration
 
 How it works:
 ![10](https://github.com/Drexel-Macintosh/BlueBerry_Q10/assets/88599898/3cb2f34a-dedf-4d3e-8792-6abb80fc73c8)
-![11](https://github.com/Drexel-Macintosh/BlueBerry_Q10/assets/88599898/09b9b4ad-ba86-4f4b-8442-f3e4ac7f7056)
+![image](https://github.com/Drexel-Macintosh/BlueBerry_Q10/assets/88599898/a87bf131-6b69-4124-8d01-b2f3f0774106)
 ![12](https://github.com/Drexel-Macintosh/BlueBerry_Q10/assets/88599898/6928ff97-5fe6-45bd-8e18-0ef41b3eb4cd)
 
 **1. Get Firmware here: [https://github.com/Drexel-Macintosh/zmk_config_Q10/actions**](https://github.com/Drexel-Macintosh/BlueBerry_Q10/actions)**
