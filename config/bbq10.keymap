@@ -61,6 +61,14 @@
         };
     };
     behaviors {
+        MAN: tap_dance_4 {
+            compatible = "zmk,behavior-tap-dance";
+            #binding-cells = <0>;
+            tapping-term-ms = <500>;
+            bindings = <&to 0>, <&to UPPER>;
+        };
+    };
+    behaviors {
 	KPM: behavior_KPM {
             compatible = "zmk,behavior-hold-tap";
             label = "KPM";
@@ -137,7 +145,7 @@
                               \      aA        |       0        |                    SPACE                  |          SYM          |         aA    /
                                 -------------------------------------------------------------------------------------------------------------------
         */
-                 		&to  0                                                                                	&to UPPER
+                 		&to  0                                                                                	&MAN
 
 		            &mtt  K_CMENU TAB		 &kp LGUI		      &mkp LCLK			&mtt ESC K_BACK		 &mkp RCLK
 
