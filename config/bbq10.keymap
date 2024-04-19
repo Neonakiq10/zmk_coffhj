@@ -185,9 +185,9 @@
 
     &none       	&none   	&none     	&sys_reset	&ext_power EP_TOG 	&none         	&none	           &none           &none      	   &none
     &none   		&none	  	&none	 	   &none     	&none	          	   &none     	   &none	           &none         	&none      	   &none
-    &none  		&none    	&none    	&none      	&bl BL_DEC       	   &bl BL_TOG   	&bl BL_INC       &none           &bootloader    &none
+    &to  0  		&none    	&none    	&none      	&bl BL_DEC       	   &bl BL_TOG   	&bl BL_INC       &none           &bootloader    &none
 
-    		&none               		 &none	               	      &out OUT_TOG              &none                    &none
+    		&to  0               		 &none	               	      &out OUT_TOG              &none                    &none
             >;
         };
 
