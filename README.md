@@ -13,5 +13,6 @@ How it works:
 ![2024-04-20_18-35-23](https://github.com/Drexel-Macintosh/BlueBerry_Q10/assets/88599898/70d6b2aa-5741-49b2-ac5e-207c464174ff)
 
 **1. Get Firmware here: [https://github.com/Drexel-Macintosh/zmk_config_Q10/actions**](https://github.com/Drexel-Macintosh/BlueBerry_Q10/actions)**
+
 **2. Unzip the firmware.zip file. You should see one files: `bbq20-zmk.uf2`.**  
 **3. Flash the keyboard with your new firmware.**[How to flash the firmware](https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard?tab=readme-ov-file#-how-to-update-the-firmware---) 
