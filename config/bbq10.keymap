@@ -153,7 +153,7 @@
     &mtt LS(A) A	&mtt LS(S) S      &mtt LS(D) D	&mtt LS(F) F     &mtt LS(G) G	&mtt LS(H) H	&mtt LS(J) J	&mtt LS(K) K	&mtt LS(L) L        &kp BSPC
     &ALTL		&mtt LS(Z) Z      &mtt LS(X) X	&mtt LS(C) C     &mtt LS(V) V	&mtt LS(B) B	&mtt LS(N) N	&mtt LS(M) M	&mtt K_EJECT LG(N)  &kp ENTER
 
-    		         &SHFT				 &hm2 EP_TOG K_PWR	      &kp SPACE			&sk LALT		 &sk LCTRL
+    		         &SHFT				 &mtt LG(A) K_PWR	      &kp SPACE			&sk LALT		 &sk LCTRL
 
             >;
         };
@@ -170,7 +170,7 @@
     &mtt EQUAL STAR		&mtt LEFT N4	   &mtt DOWN	N5	   &mtt RIGHT	N6	   &mtt BSLH SLASH	&mtt PIPE COLON	   &mtt AMPS SEMI    &mtt APOS APOS	 &mtt DQT DQT     	&mtt DEL BSPC
     &to  0      	     	&mtt N7 N7	   &mtt N8	N8	   &mtt N9	N9	   &mtt LBRC QMARK	&mtt RBRC EXCL	   &mtt GRAVE COMMA  &mtt DOT DOT	 &mtt PSCRN DLLR 	&mtt INS ENTER
 	
-    		         &SHFT				 &mtt LG(A) N0		      &kp SPACE			&sk LALT		 &sk LCTRL
+    		         &SHFT				 &hm2 EP_TOG N0 		&kp SPACE			&sk LALT		 &sk LCTRL
 
 
             >;
