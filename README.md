@@ -9,9 +9,9 @@ https://www.youtube.com/watch?v=bnA4d6uEKS0 - Video demonstration
 How it works:
 ![10](https://github.com/Drexel-Macintosh/BlueBerry_Q10/assets/88599898/3cb2f34a-dedf-4d3e-8792-6abb80fc73c8)
 
-![Lay 0 Update](https://github.com/Drexel-Macintosh/BlueBerry_Q10/assets/88599898/aa076af8-1f3e-4577-9e47-8fed5ff76679)
+![Lay 0](https://github.com/Drexel-Macintosh/BlueBerry_Q10/assets/88599898/68a04c98-2146-4774-a82b-514c1e1299c0)
 
-![Layer 1 Fix](https://github.com/Drexel-Macintosh/BlueBerry_Q10/assets/88599898/d04d8a95-64a2-41c3-827a-8101a9b043c7)
+![Lay 1](https://github.com/Drexel-Macintosh/BlueBerry_Q10/assets/88599898/be748a84-8338-4dc3-984c-8d7588b2aa67)
 
 ![2024-04-20_18-35-23](https://github.com/Drexel-Macintosh/BlueBerry_Q10/assets/88599898/70d6b2aa-5741-49b2-ac5e-207c464174ff)
 
