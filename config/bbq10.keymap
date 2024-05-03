@@ -32,8 +32,11 @@
 
 / {
 
-// Tap Dance Behaviors
+//Behaviors Start Here:
+
     behaviors {
+
+// Tap Dance Behaviors
 
         td0: tap_dance_0 {
             compatible = "zmk,behavior-tap-dance";
@@ -76,20 +79,16 @@
             tapping-term-ms = <500>;
             bindings = <&sk LALT>, <&kp LALT>;
         };
-    };
 
 // Macro Behaviors
-  behaviors {
 
     tap: tap {
       compatible = "zmk,behavior-macro-one-param";
       #binding-cells = <1>;
       bindings = <&macro_param_1to1 &kp MACRO_PLACEHOLDER>;
    	 };
-    };
 
 // Hold Tap Behaviors
-    behaviors {
 
 	KPM: behavior_KPM {
             compatible = "zmk,behavior-hold-tap";
@@ -142,6 +141,8 @@
             tapping-term-ms = <300>;
             bindings = <&kp>, <&to>;
         };
+
+//End Behvaiors here
     };
 
     keymap {
