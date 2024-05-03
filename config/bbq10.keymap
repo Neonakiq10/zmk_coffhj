@@ -15,60 +15,61 @@
 #define UPPER 2
 #define MEDIA 3
 
-// Standard Behavior Configuration:
+// Standard Behavior Configurations:
+
 &mt {
     flavor = "tap-preferred";
     tapping-term-ms = <200>;
-};
+    };
+
 &sk{
     release-after-ms = <2500>;
-};
+    };
+
 &sl {
     release-after-ms = <2500>;
-};
+    };
 
 / {
+
+// Tap Dance Behvaiors
     behaviors {
+
         td0: tap_dance_0 {
             compatible = "zmk,behavior-tap-dance";
             #binding-cells = <0>;
             tapping-term-ms = <400>;
             bindings = <&mkp LCLK>, <&bt BT_CLR>;
         };
-    };
-    behaviors {
+
         ALTL: tap_dance_1 {
             compatible = "zmk,behavior-tap-dance";
             #binding-cells = <0>;
             tapping-term-ms = <400>;
             bindings = <&sl ALT>, <&to ALT>;
         };
-    };
-    behaviors {
+
         SHFT: tap_dance_2 {
             compatible = "zmk,behavior-tap-dance";
             #binding-cells = <0>;
             tapping-term-ms = <500>;
             bindings = <&sk LSHFT>, <&kp CLCK>;
         };
-    };
-    behaviors {
+
         MED: tap_dance_3 {
             compatible = "zmk,behavior-tap-dance";
             #binding-cells = <0>;
             tapping-term-ms = <500>;
             bindings = <&sl MEDIA>, <&to MEDIA>;
         };
-    };
-    behaviors {
+
         MAN: tap_dance_4 {
             compatible = "zmk,behavior-tap-dance";
             #binding-cells = <0>;
             tapping-term-ms = <500>;
             bindings = <&to 0>, <&to UPPER>;
         };
-    };
-    behaviors {
+
         EALT: tap_dance_5 {
             compatible = "zmk,behavior-tap-dance";
             #binding-cells = <0>;
@@ -76,6 +77,7 @@
             bindings = <&sk LALT>, <&kp LALT>;
         };
     };
+
     behaviors {
 	KPM: behavior_KPM {
             compatible = "zmk,behavior-hold-tap";
@@ -142,6 +144,7 @@
             bindings = <&kp>, <&to>;
         };
     };
+
     keymap {
         compatible = "zmk,keymap";
         default_layer {
