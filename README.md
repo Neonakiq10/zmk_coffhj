@@ -11,7 +11,7 @@ How it works:
 
 ![Lay 0](https://github.com/Drexel-Macintosh/BlueBerry_Q10/assets/88599898/68a04c98-2146-4774-a82b-514c1e1299c0)
 
-![Lay 1](https://github.com/Drexel-Macintosh/BlueBerry_Q10/assets/88599898/be748a84-8338-4dc3-984c-8d7588b2aa67)
+![Lay 1](https://github.com/Drexel-Macintosh/BlueBerry_Q10/assets/88599898/83ccb390-b213-4e19-a426-59f04de8c54c)
 
 ![2024-04-20_18-35-23](https://github.com/Drexel-Macintosh/BlueBerry_Q10/assets/88599898/70d6b2aa-5741-49b2-ac5e-207c464174ff)
 
