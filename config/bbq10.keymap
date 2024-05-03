@@ -172,7 +172,7 @@
 
     &mtt LS(Q) Q	&mtt LS(W) W      &mtt LS(E) E	&mtt LS(R) R     &mtt LS(T) T	&mtt LS(Y) Y	&mtt LS(U) U	&mtt LS(I) I	&mtt LS(O) O	    &mtt LS(P) P
     &mtt LS(A) A	&mtt LS(S) S      &mtt LS(D) D	&mtt LS(F) F     &mtt LS(G) G	&mtt LS(H) H	&mtt LS(J) J	&mtt LS(K) K	&mtt LS(L) L        &kp BSPC
-    &ALTL		&mtt LS(Z) Z      &mtt LS(X) X	&mtt LS(C) C     &mtt LS(V) V	&mtt LS(B) B	&mtt LS(N) N	&mtt LS(M) M	&mtt K_STOP LG(N)  &kp ENTER
+    &ALTL		&mtt LS(Z) Z      &mtt LS(X) X	&mtt LS(C) C     &mtt LS(V) V	&mtt LS(B) B	&mtt LS(N) N	&mtt LS(M) M	&mtt K_STOP LG(N)   &kp ENTER
 
     		         &SHFT				 &mtt LG(A) K_PWR	      &kp SPACE			&EALT		 &sk LCTRL
 
@@ -185,11 +185,11 @@
             bindings = <        
                 		&to  0                                                                            	 &to  0
 
-    	         	&kp K_PREV    			 &kp K_SCROLL_UP	      &kp K_PP			&kp K_SCROLL_DOWN	 &kp K_NEXT
+    	         	&mtt K_PREV K_VOL_DN		 &kp K_SCROLL_UP	        &kp K_PP			&kp K_SCROLL_DOWN	 &mtt K_NEXT K_VOL_UP
 
     &mtt TILDE HASH	   	&mtt HOME N1	   &mtt UP	N2	   &mtt END    N3	   &mtt LBKT LPAR	&mtt RBKT RPAR	   &mtt LT UNDER     &mtt GT MINUS	 &mtt CARET PLUS	&mtt PERCENT AT
     &mtt EQUAL STAR		&mtt LEFT N4	   &mtt DOWN	N5	   &mtt RIGHT	N6	   &mtt BSLH SLASH	&mtt PIPE COLON	   &mtt AMPS SEMI    &mtt APOS APOS	 &mtt DQT DQT     	&mtt DEL BSPC
-    &to  0      	     	&mtt N7 N7	   &mtt N8	N8	   &mtt N9	N9	   &mtt LBRC QMARK	&mtt RBRC EXCL	   &mtt GRAVE COMMA  &mtt DOT DOT	 &mtt PSCRN DLLR 	&mtt INS ENTER
+    &to  0      	     	&mtt N7 N7	   &mtt N8	N8	   &mtt N9	N9	   &mtt LBRC QMARK	&mtt RBRC EXCL	   &mtt GRAVE COMMA  &mtt DOT DOT	 &mtt PSCRN DLLR 	&kp ENTER
 	
     		         &SHFT				 &hm2 EP_TOG N0 		&kp SPACE			&sk LALT		 &sk LCTRL
 
