@@ -67,6 +67,7 @@
             tapping-term-ms = <500>;
             bindings = <&to 0>, <&to UPPER>;
         };
+    };
     behaviors {
         EALT: tap_dance_5 {
             compatible = "zmk,behavior-tap-dance";
