@@ -4,9 +4,13 @@
 
 [YouTube Video Demonstration](https://www.youtube.com/watch?v=bnA4d6uEKS0)
 
+[Vendor Discord](https://discord.gg/Vf3DPam5e6/)
+
 [Vendor Tindie Link](https://www.tindie.com/stores/zitaotech/)
 
-[Vendor Discord](https://discord.gg/Vf3DPam5e6/)
+[Metal Mount Plates](https://www.amazon.com/dp/B00O2HYV7K?psc=1&ref=ppx_yo2ov_dt_b_product_details )
+
+[Magsafe Popsocket](https://a.co/d/3kA9kbC)
 
 1. Get Firmware here: [https://github.com/Drexel-Macintosh/zmk_config_Q10/actions**](https://github.com/Drexel-Macintosh/BlueBerry_Q10/actions)
 2. Unzip the firmware.zip file. You should see one files: `bbq10-zmk.uf2`.
