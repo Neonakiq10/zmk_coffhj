@@ -17,7 +17,7 @@ The BlueBerry ZMK firmware is a personal project, independent of any commercial 
 
 # Firmware Links
 1. Firmware Link: [Android Q10 Firmware Link](https://github.com/Drexel-Macintosh/BlueBerry_Q10/actions/runs/8951963345/artifacts/1473283355)
-2. Firmware Link: [iOS Q10 Firmware Link](https://github.com/Drexel-Macintosh/BlueBerry_Q10/actions/runs/8946772994/artifacts/1472356098)
+2. Firmware Link: [iOS Q10 Firmware Link](https://github.com/Drexel-Macintosh/BlueBerry_Q10/actions/runs/8952517145/artifacts/1473366321)
 3. Unzip the firmware.zip file. You should see one files: `bbq10-zmk.uf2`.
 4. Flash the keyboard with your new firmware.[How to flash the firmware](https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard?tab=readme-ov-file#-how-to-update-the-firmware---)
 
@@ -25,8 +25,18 @@ The BlueBerry ZMK firmware is a personal project, independent of any commercial 
 
 ![10](https://github.com/Drexel-Macintosh/BlueBerry_Q10/assets/88599898/3cb2f34a-dedf-4d3e-8792-6abb80fc73c8)
 
-![Lay 0](https://github.com/Drexel-Macintosh/BlueBerry_Q10/assets/88599898/68a04c98-2146-4774-a82b-514c1e1299c0)
+![Lay 0](https://github.com/Drexel-Macintosh/BlueBerry_Q10/assets/88599898/b524cef3-1188-430c-b098-98e3d7de56c4)
 
 ![Lay 1](https://github.com/Drexel-Macintosh/BlueBerry_Q10/assets/88599898/83ccb390-b213-4e19-a426-59f04de8c54c)
+
+![2024-04-20_18-35-23](https://github.com/Drexel-Macintosh/BlueBerry_Q10/assets/88599898/70d6b2aa-5741-49b2-ac5e-207c464174ff)
+
+# iOS Firmware Overview:
+
+![10](https://github.com/Drexel-Macintosh/BlueBerry_Q10/assets/88599898/3cb2f34a-dedf-4d3e-8792-6abb80fc73c8)
+
+![iOS L0](https://github.com/Drexel-Macintosh/BlueBerry_Q10/assets/88599898/72210a32-33cf-411e-a896-278e8b7ea9f2)
+
+![iOS L1](https://github.com/Drexel-Macintosh/BlueBerry_Q10/assets/88599898/36a812b2-0a9c-4453-8dc1-636347bfb260)
 
 ![2024-04-20_18-35-23](https://github.com/Drexel-Macintosh/BlueBerry_Q10/assets/88599898/70d6b2aa-5741-49b2-ac5e-207c464174ff)
