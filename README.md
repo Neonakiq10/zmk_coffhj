@@ -1,6 +1,6 @@
 # BlueBerry An Open-Source, Detachable Keyboard and Mouse for Any Android Device - No 3D Printing Required!
 
-# What is is?
+# What is it?
 
 The BlueBerry ZMK firmware is a personal project, independent of any commercial affiliations. Its aim is to create a highly optimized, device-agnostic Bluetooth keyboard suitable for any smartphone.
 
