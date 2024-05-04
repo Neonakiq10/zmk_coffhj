@@ -1,5 +1,7 @@
 # BlueBerry An Open-Source, Detachable Keyboard and Mouse for Any Android Device - No 3D Printing Required!
 
+[![BlueBerry Thumbail](https://github.com/Drexel-Macintosh/BlueBerry_Q10/assets/88599898/1a448433-4ab8-45aa-89ba-8d32a790789c)](https://www.youtube.com/watch?v=bnA4d6uEKS0)
+
 # What is it?
 
 The BlueBerry ZMK firmware is a personal project, independent of any commercial affiliations. Its aim is to create a highly optimized, device-agnostic Bluetooth keyboard firmware suitable for any smartphone.
@@ -17,8 +19,6 @@ The BlueBerry ZMK firmware is a personal project, independent of any commercial 
 1. Firmware Link: [Android Q10 Firmware Link](https://github.com/Drexel-Macintosh/BlueBerry_Q10/actions/runs/8951963345/artifacts/1473283355)
 2. Unzip the firmware.zip file. You should see one files: `bbq10-zmk.uf2`.
 3. Flash the keyboard with your new firmware.[How to flash the firmware](https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard?tab=readme-ov-file#-how-to-update-the-firmware---)
-
-[![BlueBerry Thumbail](https://github.com/Drexel-Macintosh/BlueBerry_Q10/assets/88599898/1a448433-4ab8-45aa-89ba-8d32a790789c)](https://www.youtube.com/watch?v=bnA4d6uEKS0)
 
 # Firmware Overview:
 
