@@ -23,6 +23,8 @@ The BlueBerry ZMK firmware is a personal project, independent of any commercial 
 
 # Android Firmware Overview:
 
+- [Android Keyboard Shortcuts](https://www.androidpolice.com/android-14-physical-keyboard-shortcuts-list/)
+
 ![10](https://github.com/Drexel-Macintosh/BlueBerry_Q10/assets/88599898/3cb2f34a-dedf-4d3e-8792-6abb80fc73c8)
 
 ![Lay 0](https://github.com/Drexel-Macintosh/BlueBerry_Q10/assets/88599898/b524cef3-1188-430c-b098-98e3d7de56c4)
@@ -32,6 +34,9 @@ The BlueBerry ZMK firmware is a personal project, independent of any commercial 
 ![2024-04-20_18-35-23](https://github.com/Drexel-Macintosh/BlueBerry_Q10/assets/88599898/70d6b2aa-5741-49b2-ac5e-207c464174ff)
 
 # iOS Firmware Overview:
+
+- [How to use a mouse on your iOS Device](https://support.apple.com/en-us/111775)
+- [Learn iOS keyboard shortcuts](https://support.apple.com/en-us/102393)
 
 ![10](https://github.com/Drexel-Macintosh/BlueBerry_Q10/assets/88599898/3cb2f34a-dedf-4d3e-8792-6abb80fc73c8)
 
