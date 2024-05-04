@@ -1,6 +1,8 @@
 # BlueBerry An Open-Source, Detachable Keyboard and Mouse for Any Android Device - No 3D Printing Required!
 
-# BBQ10 wireless Keyboard: "BlueBerry" Firmware Fork
+# What is is?
+
+The BlueBerry ZMK firmware is a personal project, independent of any commercial affiliations. Its aim is to create a highly optimized, device-agnostic Bluetooth keyboard suitable for any smartphone.
 
 # Support & Product Links
 - [YouTube Video Demonstration](https://www.youtube.com/watch?v=bnA4d6uEKS0)
