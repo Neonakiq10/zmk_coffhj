@@ -1,4 +1,4 @@
-# Project BlueBerry: An Open-Source, Detachable Keyboard and Mouse Firmware for Any Android Device - No 3D Printing Required!
+# Project BlueBerry: An Open-Source, Detachable Keyboard and Mouse Firmware for Any Smartphone - No 3D Printing Required!
 
 [![PB](https://github.com/Drexel-Macintosh/BlueBerry_Q10/assets/88599898/53d27130-1f2d-44a6-a8b7-47ba429ae476)](https://www.youtube.com/watch?v=bnA4d6uEKS0)
 
