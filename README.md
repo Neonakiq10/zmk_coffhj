@@ -18,7 +18,7 @@ The BlueBerry ZMK firmware is a personal project, independent of any commercial 
 
 [![BlueBerry Thumbail](https://github.com/Drexel-Macintosh/BlueBerry_Q10/assets/88599898/1a448433-4ab8-45aa-89ba-8d32a790789c)](https://www.youtube.com/watch?v=bnA4d6uEKS0)
 
-# Firmware overview:
+# Firmware Overview:
 
 ![10](https://github.com/Drexel-Macintosh/BlueBerry_Q10/assets/88599898/3cb2f34a-dedf-4d3e-8792-6abb80fc73c8)
 
