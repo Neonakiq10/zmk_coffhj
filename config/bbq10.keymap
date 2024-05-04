@@ -69,7 +69,7 @@
         MAN: tap_dance_4 {
             compatible = "zmk,behavior-tap-dance";
             #binding-cells = <0>;
-            tapping-term-ms = <400>;
+            tapping-term-ms = <350>;
             bindings = <&to 0>, <&to UPPER>;
         };
 
@@ -79,6 +79,14 @@
             tapping-term-ms = <500>;
             bindings = <&sk LALT>, <&kp LALT>;
         };
+
+        ECTRL: tap_dance_6 {
+            compatible = "zmk,behavior-tap-dance";
+            #binding-cells = <0>;
+            tapping-term-ms = <500>;
+            bindings = <&sk LCTRL>, <&kp LC(SPACE)>;
+        };
+
 
 // Macro Behaviors
 
