@@ -12,7 +12,7 @@
 
 [Magsafe Popsocket](https://a.co/d/3kA9kbC)
 
-1. Get Firmware here: [https://github.com/Drexel-Macintosh/zmk_config_Q10/actions**](https://github.com/Drexel-Macintosh/BlueBerry_Q10/actions)
+1. Firmware Link: [Android Q10 Firmware Link](https://github.com/Drexel-Macintosh/BlueBerry_Q10/actions)
 2. Unzip the firmware.zip file. You should see one files: `bbq10-zmk.uf2`.
 3. Flash the keyboard with your new firmware.[How to flash the firmware](https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard?tab=readme-ov-file#-how-to-update-the-firmware---)
 
