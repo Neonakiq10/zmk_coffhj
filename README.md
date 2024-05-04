@@ -2,16 +2,14 @@
 
 # BBQ10 wireless Keyboard: "BlueBerry" Firmware Fork
 
-[YouTube Video Demonstration](https://www.youtube.com/watch?v=bnA4d6uEKS0)
+# Support & Product Links
+- [YouTube Video Demonstration](https://www.youtube.com/watch?v=bnA4d6uEKS0)
+- [Questions? Join the Vendor Discord](https://discord.gg/Vf3DPam5e6/)
+- [Vendor Tindie Link](https://www.tindie.com/stores/zitaotech/)
+- [Metal Mount Plates](https://www.amazon.com/dp/B00O2HYV7K?psc=1&ref=ppx_yo2ov_dt_b_product_details )
+- [Magsafe Popsocket](https://a.co/d/3kA9kbC)
 
-[Vendor Discord](https://discord.gg/Vf3DPam5e6/)
-
-[Vendor Tindie Link](https://www.tindie.com/stores/zitaotech/)
-
-[Metal Mount Plates](https://www.amazon.com/dp/B00O2HYV7K?psc=1&ref=ppx_yo2ov_dt_b_product_details )
-
-[Magsafe Popsocket](https://a.co/d/3kA9kbC)
-
+# Firmware Links
 1. Firmware Link: [Android Q10 Firmware Link](https://github.com/Drexel-Macintosh/BlueBerry_Q10/actions)
 2. Unzip the firmware.zip file. You should see one files: `bbq10-zmk.uf2`.
 3. Flash the keyboard with your new firmware.[How to flash the firmware](https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard?tab=readme-ov-file#-how-to-update-the-firmware---)
