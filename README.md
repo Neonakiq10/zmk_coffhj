@@ -2,7 +2,7 @@
 
 # What is it?
 
-The BlueBerry ZMK firmware is a personal project, independent of any commercial affiliations. Its aim is to create a highly optimized, device-agnostic Bluetooth keyboard suitable for any smartphone.
+The BlueBerry ZMK firmware is a personal project, independent of any commercial affiliations. Its aim is to create a highly optimized, device-agnostic Bluetooth keyboard firmware suitable for any smartphone.
 
 # Support & Product Links
 - [YouTube Video Demonstration](https://www.youtube.com/watch?v=bnA4d6uEKS0)
