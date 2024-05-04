@@ -12,7 +12,7 @@
 2. Unzip the firmware.zip file. You should see one files: `bbq10-zmk.uf2`.
 3. Flash the keyboard with your new firmware.**[How to flash the firmware](https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard?tab=readme-ov-file#-how-to-update-the-firmware---)
 
-![BlueBerry Thumbail](https://github.com/Drexel-Macintosh/BlueBerry_Q10/assets/88599898/1a448433-4ab8-45aa-89ba-8d32a790789c)
+[![BlueBerry Thumbail](https://github.com/Drexel-Macintosh/BlueBerry_Q10/assets/88599898/1a448433-4ab8-45aa-89ba-8d32a790789c)](https://www.youtube.com/watch?v=bnA4d6uEKS0)
 
 How it works:
 ![10](https://github.com/Drexel-Macintosh/BlueBerry_Q10/assets/88599898/3cb2f34a-dedf-4d3e-8792-6abb80fc73c8)
