@@ -17,12 +17,12 @@ The BlueBerry ZMK firmware is a personal project, independent of any commercial 
 - [Metal Mount Plates Used](https://www.amazon.com/dp/B00O2HYV7K?psc=1&ref=ppx_yo2ov_dt_b_product_details )
 - [Magsafe Popsocket Used](https://a.co/d/3kA9kbC)
 
-# Firmware Links
-1. Firmware Link: [Android Q10 Firmware Link](https://github.com/Drexel-Macintosh/BlueBerry_Q10/actions/runs/8953964748/artifacts/1473578492)
-2. Firmware Link: [Android Q20 Firmware Link](https://github.com/Drexel-Macintosh/BlueBerry_Q20/actions/runs/8958183841/artifacts/1474312282)
-3. Firmware Link: [iOS Q10 Firmware Link](https://github.com/Drexel-Macintosh/BlueBerry_Q10/actions/runs/8954097735/artifacts/1473599447)
-4. Firmware Link: [iOS Q20 Firmware Link](https://github.com/Drexel-Macintosh/BlueBerry_Q20/actions/runs/8958206387/artifacts/1474314987)
-5. Unzip the firmware.zip file. You should see one files: `bbq10-zmk.uf2`.
+# BlueBerry Firmware Links
+1. [Android Q10 Firmware Link](https://github.com/Drexel-Macintosh/BlueBerry_Q10/actions/runs/8953964748/artifacts/1473578492)
+2. [Android Q20 Firmware Link](https://github.com/Drexel-Macintosh/BlueBerry_Q20/actions/runs/8958183841/artifacts/1474312282)
+3. [iOS Q10 Firmware Link](https://github.com/Drexel-Macintosh/BlueBerry_Q10/actions/runs/8954097735/artifacts/1473599447)
+4. [iOS Q20 Firmware Link](https://github.com/Drexel-Macintosh/BlueBerry_Q20/actions/runs/8958206387/artifacts/1474314987)
+5. Unzip the firmware.zip file. You should see one files: `bbqXX-zmk.uf2`.
 6. Flash the keyboard with your new firmware.[How to flash the firmware](https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard?tab=readme-ov-file#-how-to-update-the-firmware---)
 
 # Android Firmware Overview:
