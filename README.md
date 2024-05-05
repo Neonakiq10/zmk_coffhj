@@ -44,7 +44,7 @@ The BlueBerry ZMK firmware is a personal project, independent of any commercial 
 
 ![10](https://github.com/Drexel-Macintosh/BlueBerry_Q10/assets/88599898/3cb2f34a-dedf-4d3e-8792-6abb80fc73c8)
 
-![iOS L0](https://github.com/Drexel-Macintosh/BlueBerry_Q10/assets/88599898/13bd6776-4162-4291-9720-6e45dafcbcfb)
+![iOS L0](https://github.com/Drexel-Macintosh/BlueBerry_Q10/assets/88599898/d9bc5d61-c896-4f48-a3d9-c43c6e8bb20b)
 
 ![iOS L1](https://github.com/Drexel-Macintosh/BlueBerry_Q10/assets/88599898/28a79331-b436-441e-8bd4-3ce69aabd036)
 
