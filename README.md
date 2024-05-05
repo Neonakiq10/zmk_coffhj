@@ -19,9 +19,11 @@ The BlueBerry ZMK firmware is a personal project, independent of any commercial 
 
 # Firmware Links
 1. Firmware Link: [Android Q10 Firmware Link](https://github.com/Drexel-Macintosh/BlueBerry_Q10/actions/runs/8953964748/artifacts/1473578492)
-2. Firmware Link: [iOS Q10 Firmware Link](https://github.com/Drexel-Macintosh/BlueBerry_Q10/actions/runs/8954097735/artifacts/1473599447)
-3. Unzip the firmware.zip file. You should see one files: `bbq10-zmk.uf2`.
-4. Flash the keyboard with your new firmware.[How to flash the firmware](https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard?tab=readme-ov-file#-how-to-update-the-firmware---)
+2. Firmware Link: [Android Q20 Firmware Link](https://github.com/Drexel-Macintosh/BlueBerry_Q20/actions/runs/8958183841/artifacts/1474312282)
+3. Firmware Link: [iOS Q10 Firmware Link](https://github.com/Drexel-Macintosh/BlueBerry_Q10/actions/runs/8954097735/artifacts/1473599447)
+4. Firmware Link: [iOS Q20 Firmware Link](https://github.com/Drexel-Macintosh/BlueBerry_Q20/actions/runs/8958206387/artifacts/1474314987)
+5. Unzip the firmware.zip file. You should see one files: `bbq10-zmk.uf2`.
+6. Flash the keyboard with your new firmware.[How to flash the firmware](https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard?tab=readme-ov-file#-how-to-update-the-firmware---)
 
 # Android Firmware Overview:
 
@@ -31,7 +33,7 @@ The BlueBerry ZMK firmware is a personal project, independent of any commercial 
 
 ![Lay 0](https://github.com/Drexel-Macintosh/BlueBerry_Q10/assets/88599898/b524cef3-1188-430c-b098-98e3d7de56c4)
 
-![And L1](https://github.com/Drexel-Macintosh/BlueBerry_Q10/assets/88599898/cfac5817-b384-47d9-9839-6212555cff23)
+![And L1](https://github.com/Drexel-Macintosh/BlueBerry_Q10/assets/88599898/8557339b-f1c8-4637-bcef-7ec5b6dbdfa7)
 
 ![2024-04-20_18-35-23](https://github.com/Drexel-Macintosh/BlueBerry_Q10/assets/88599898/70d6b2aa-5741-49b2-ac5e-207c464174ff)
 
@@ -42,8 +44,8 @@ The BlueBerry ZMK firmware is a personal project, independent of any commercial 
 
 ![10](https://github.com/Drexel-Macintosh/BlueBerry_Q10/assets/88599898/3cb2f34a-dedf-4d3e-8792-6abb80fc73c8)
 
-![iOS L0](https://github.com/Drexel-Macintosh/BlueBerry_Q10/assets/88599898/3cdc04e0-51a7-4dba-be3a-abe11c439763)
+![iOS L0](https://github.com/Drexel-Macintosh/BlueBerry_Q10/assets/88599898/13bd6776-4162-4291-9720-6e45dafcbcfb)
 
-![iOS L1](https://github.com/Drexel-Macintosh/BlueBerry_Q10/assets/88599898/6f8bd959-4ee0-491f-8fa4-6f4a455a30b8)
+![iOS L1](https://github.com/Drexel-Macintosh/BlueBerry_Q10/assets/88599898/28a79331-b436-441e-8bd4-3ce69aabd036)
 
 ![2024-04-20_18-35-23](https://github.com/Drexel-Macintosh/BlueBerry_Q10/assets/88599898/70d6b2aa-5741-49b2-ac5e-207c464174ff)
