@@ -41,21 +41,21 @@
         td0: tap_dance_0 {
             compatible = "zmk,behavior-tap-dance";
             #binding-cells = <0>;
-            tapping-term-ms = <400>;
+            tapping-term-ms = <300>;
             bindings = <&mkp LCLK>, <&bt BT_CLR>;
         };
 
         ALTL: tap_dance_1 {
             compatible = "zmk,behavior-tap-dance";
             #binding-cells = <0>;
-            tapping-term-ms = <400>;
+            tapping-term-ms = <300>;
             bindings = <&sl ALT>, <&to ALT>;
         };
 
         SHFT: tap_dance_2 {
             compatible = "zmk,behavior-tap-dance";
             #binding-cells = <0>;
-            tapping-term-ms = <500>;
+            tapping-term-ms = <300>;
             bindings = <&sk LSHFT>, <&kp CLCK>;
         };
 
@@ -76,14 +76,14 @@
         EALT: tap_dance_5 {
             compatible = "zmk,behavior-tap-dance";
             #binding-cells = <0>;
-            tapping-term-ms = <500>;
+            tapping-term-ms = <300>;
             bindings = <&sk LALT>, <&kp LALT>;
         };
 
         ECTRL: tap_dance_6 {
             compatible = "zmk,behavior-tap-dance";
             #binding-cells = <0>;
-            tapping-term-ms = <500>;
+            tapping-term-ms = <300>;
             bindings = <&sk LCTRL>, <&kp LC(SPACE)>;
         };
 
