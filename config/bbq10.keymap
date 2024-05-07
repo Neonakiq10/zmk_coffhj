@@ -245,13 +245,13 @@
             bindings = <        
 		&to  0													&to  0
  
-    &mkp MB4			&mkp LCLK			&mkp MCLK				&mkp RCLK				&mkp MB5  
+    		&mkp MB4			&mkp LCLK			&mkp MCLK				&mkp RCLK				&mkp MB5  
 
-    &none		&ke HOME     	&kp UP    	&kp PG_UP  	  		&none			&none		&none    	&none	 	 &none		&none
-    &none	     	&kp LEFT   	&kp DOWN      	&kp RIGHT 		&none		     	&none	      	&none       	&none       	 &none		&none
+    &none		&kp HOME     	&kp UP    	&kp PG_UP  	  	&none			&none		&none    	&none	 	 &none		&none
+    &none	     	&kp LEFT   	&kp N5      	&kp RIGHT 		&none		     	&none	      	&none       	&none       	 &none		&none
     &to  0     	 	&kp END     	&kp DOWN     	&kp PG_DN    		&none	     		&none		&none       	&none       	 &none		&none
 	
-    &none			&to  0			&kp SPACE			&sk LALT				&sk LCTRL
+    		&none				&to  0				&kp SPACE				&sk LALT				&sk LCTRL
             >;
         };
     };
