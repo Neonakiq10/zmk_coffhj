@@ -62,8 +62,8 @@
         MED: tap_dance_3 {
             compatible = "zmk,behavior-tap-dance";
             #binding-cells = <0>;
-            tapping-term-ms = <500>;
-            bindings = <&sl MEDIA>, <&to MEDIA>;
+            tapping-term-ms = <250>;
+            bindings = <&to 0>, <&to MEDIA>;
         };
 
         MAN: tap_dance_4 {
@@ -86,7 +86,6 @@
             tapping-term-ms = <500>;
             bindings = <&sk LCTRL>, <&kp LC(SPACE)>;
         };
-
 
 // Macro Behaviors
 
@@ -237,7 +236,7 @@
     &none   		&none	  	&none	 	&none     	&none	          	   &none     	 	&none	           &none	   &none      	   &none
     &to  0  		&none    	&none    	&none		&bl BL_DEC       	   &bl BL_TOG   	&bl BL_INC         &none           &bootloader     &none
 
-    		&to  0               		 &none	               	      &out OUT_TOG              &none                    &none
+    		&to  0               		 &none	               	      &out OUT_TOG              &LALT                    &LCTRL
             >;
         };
 
@@ -252,7 +251,7 @@
     &none	     	&none   	&none      	&none	 		&none		     	&none	      	&none       	&none       	 &none		&none
     &none     	 	&none     	&none     	&none    		&none	     		&none		&none       	&none       	 &none		&none
 	
-    &none			&to  0			&none				&none				&none
+    &none			&to  0			&none				&LALT				&LCTRL
             >;
         };
     };
