@@ -247,11 +247,11 @@
  
     &none			&none			&none				&none				&none  
 
-    &none		&none     	&none    	&none  	  		&none			&none		&none    	&none	 	 &none		&none
-    &none	     	&none   	&none      	&none	 		&none		     	&none	      	&none       	&none       	 &none		&none
-    &none     	 	&none     	&none     	&none    		&none	     		&none		&none       	&none       	 &none		&none
+    &none		&none     	&kp UP    	&none  	  		&none			&none		&none    	&none	 	 &none		&none
+    &none	     	&kp LEFT   	&kp DOWN      	&kp RIGHT 		&none		     	&none	      	&none       	&none       	 &none		&none
+    &to  0     	 	&none     	&kp DOWN     	&none    		&none	     		&none		&none       	&none       	 &none		&none
 	
-    &none			&to  0			&none				&sk LALT				&sk LCTRL
+    &none			&to  0			&kp SPACE			&sk LALT				&sk LCTRL
             >;
         };
     };
