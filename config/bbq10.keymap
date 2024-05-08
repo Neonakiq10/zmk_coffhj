@@ -247,9 +247,9 @@
  
     		&mkp LCLK			&mkp RCLK			&mkp MCLK				&mkp MB4				&mkp MB5  
 
-    &none		&kp HOME     	&kp UP    	&kp PG_UP  	  	&none			&none		&none    	&none	 	 &none		&none
-    &none	     	&kp LEFT   	&kp N5      	&kp RIGHT 		&none		     	&none	      	&none       	&none       	 &none		&none
-    &to  0     	 	&kp END     	&kp DOWN     	&kp PG_DN    		&none	     		&none		&none       	&none       	 &none		&none
+    &kp Q		&kp W     	&kp E    	&kp R	  	  	&kp T			&kp Y		&kp U	    	&kp I	 	 &kp O		&kp P
+    &kp A	     	&kp S   	&kp D      	&kp F	 		&kp G		     	&kp H	      	&kp J       	&kp K       	 &kp L		&kp DEL
+    &to 0     	 	&kp Z     	&kp X     	&kp C    		&kp V	     		&kp B		&kp N        	&kp M       	 &kp $		&kp ENTER
 	
     		&none				&to  0				&kp SPACE				&sk LALT				&sk LCTRL
             >;
