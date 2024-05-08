@@ -258,7 +258,7 @@
     &kp A	     	&kp S   	&kp D      	&kp F	 		&kp G		     	&kp H	      	&kp J       	&kp K       	 &kp L		&kp DEL
     &MAN     	 	&kp Z     	&kp X     	&kp C    		&kp V	     		&kp B		&kp N        	&kp M       	 &kp DLLR	&kp ENTER
 	
-    		&SHFT				 &to  0				&kp SPACE				&sk LALT				&sk LCTRL
+    		&SHFT				 &kp N0				&kp SPACE				&sk LALT				&sk LCTRL
             >;
         };
     };
