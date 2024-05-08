@@ -12,8 +12,8 @@
 #include <dt-bindings/zmk/ext_power.h>
  
 #define ALT 1
-#define UPPER 2
-#define MEDIA 3
+#define UPPER 3
+#define MEDIA 2
 
 // Standard Behavior Configurations:
 
