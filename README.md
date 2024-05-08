@@ -20,10 +20,11 @@ The BlueBerry ZMK firmware is a personal project, independent of any commercial 
 # BlueBerry Firmware Links
 1. [Android Q10 Firmware Link](https://github.com/Drexel-Macintosh/BlueBerry_Q10/actions/runs/8953964748/artifacts/1473578492)
 2. [Android Q20 Firmware Link](https://github.com/Drexel-Macintosh/BlueBerry_Q20/actions/runs/8958183841/artifacts/1474312282)
-3. [iOS Q10 Firmware Link](https://github.com/Drexel-Macintosh/BlueBerry_Q10/actions/runs/8954097735/artifacts/1473599447)
-4. [iOS Q20 Firmware Link](https://github.com/Drexel-Macintosh/BlueBerry_Q20/actions/runs/8958206387/artifacts/1474314987)
-5. Unzip the firmware.zip file. You should see one files: `bbqXX-zmk.uf2`.
-6. Flash the keyboard with your new firmware.[How to flash the firmware](https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard?tab=readme-ov-file#-how-to-update-the-firmware---)
+4. [iOS Q10 Firmware Link](https://github.com/Drexel-Macintosh/BlueBerry_Q10/actions/runs/8954097735/artifacts/1473599447)
+5. [iOS Q20 Firmware Link](https://github.com/Drexel-Macintosh/BlueBerry_Q20/actions/runs/8958206387/artifacts/1474314987)
+6. [iOS 9900 Firmware Link](https://github.com/Drexel-Macintosh/BlueBerry_9900/actions/runs/8999289456/artifacts/1483449046)
+7. Unzip the firmware.zip file. You should see one files: `bbqXX-zmk.uf2`.
+8. Flash the keyboard with your new firmware.[How to flash the firmware](https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard?tab=readme-ov-file#-how-to-update-the-firmware---)
 
 # Android Firmware Overview:
 
