@@ -201,7 +201,7 @@
                               \      aA        |       0        |                    SPACE                  |          SYM          |         aA    /
                                 -------------------------------------------------------------------------------------------------------------------
         */
-                 		&to  0                                                                                	&MAN
+                 		&to  0                                                                                	&MED
 
 		            &mtt  K_CMENU TAB		 &msk LGUI LGUI		      &mkp LCLK			&mtt ESC K_BACK		 &mkp RCLK
 
