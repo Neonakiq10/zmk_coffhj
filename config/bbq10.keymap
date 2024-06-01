@@ -94,22 +94,57 @@
             bindings = <&to 0>, <&to MEDIA>;
         };
 
+        CON: tap_dance_8 {
+            compatible = "zmk,behavior-tap-dance";
+            #binding-cells = <0>;
+            tapping-term-ms = <250>;
+            bindings = <&to 0>, <&to 0>;
+        };
+
 // Macro Behaviors
 
-    tap: tap {
-      compatible = "zmk,behavior-macro-one-param";
-      #binding-cells = <1>;
-      bindings = <&macro_param_1to1 &kp MACRO_PLACEHOLDER>;
-   	 };
+	tap: tap {
+		compatible = "zmk,behavior-macro-one-param";
+     		#binding-cells = <1>;
+      		bindings = <&macro_param_1to1 &kp MACRO_PLACEHOLDER>;
+   	 	};
 
-        glo: globe_pseudo_mod {
-            compatible = "zmk,behavior-macro-one-param";
-            #binding-cells = <1>;
-            bindings
-                = <&macro_press &kp GLOBE>
-                , <&macro_param_1to1>
-                , <&macro_tap &kp MACRO_PLACEHOLDER>
-                , <&macro_release &kp GLOBE>;
+	glo: globe_pseudo_mod {
+           	compatible = "zmk,behavior-macro-one-param";
+            	#binding-cells = <1>;
+           	 bindings
+                	= <&macro_press &kp GLOBE>
+                	, <&macro_param_1to1>
+                	, <&macro_tap &kp MACRO_PLACEHOLDER>
+                	, <&macro_release &kp GLOBE>;
+        	};
+
+        bt0: bt0 {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&bt BT_SEL 0 &bt BT_DISC 1 &bt BT_DISC 2 &bt BT_DISC 3 &bt BT_DISC 4>;
+            label = "BT0";
+        };
+
+        bt1: bt1 {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&bt BT_SEL 1 &bt BT_DISC 0 &bt BT_DISC 2 &bt BT_DISC 3 &bt BT_DISC 4>;
+            label = "BT1";
+        };
+
+        bt2: bt2 {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&bt BT_SEL 2 &bt BT_DISC 0 &bt BT_DISC 1 &bt BT_DISC 3 &bt BT_DISC 4>;
+            label = "BT2";
+        };
+
+        bt3: bt3 {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&bt BT_SEL 3 &bt BT_DISC 0 &bt BT_DISC 1 &bt BT_DISC 2 &bt BT_DISC 4>;
+            label = "BT3";
         };
 
 // Hold Tap Behaviors
@@ -133,7 +168,7 @@
         hm2: homerow_mods_2 {
             compatible = "zmk,behavior-hold-tap";
             #binding-cells = <2>;
-            tapping-term-ms = <200>;
+            tapping-term-ms = <500>;
             bindings = <&ext_power &kp>;
         };
 
@@ -141,7 +176,7 @@
 		compatible = "zmk,behavior-hold-tap";
 		#binding-cells = <2>;
 	     	flavor = "tap-preferred";
-	      	tapping-term-ms = <180>;
+	      	tapping-term-ms = <200>;
 	      	quick-tap-ms = <125>;
 	      	require-prior-idle-ms = <125>;
 	      	bindings = <&tap>, <&tap>;
@@ -151,7 +186,7 @@
 	      compatible = "zmk,behavior-hold-tap";
 	      #binding-cells = <2>;
 	      flavor = "tap-preferred";
-	      tapping-term-ms = <180>;
+	      tapping-term-ms = <200>;
 	      quick-tap-ms = <125>;
 	      require-prior-idle-ms = <125>;
 	      bindings = <&sk>, <&kp>;
@@ -175,6 +210,16 @@
 	      require-prior-idle-ms = <125>;
 	      bindings = <&kp>, <&glo>;
 	};
+
+        mou: mod_mouse {
+            compatible = "zmk,behavior-hold-tap";
+            #binding-cells = <2>;
+            flavor = "tap-preferred";
+            tapping-term-ms = <200>;
+            quick-tap-ms = <125>;
+            require-prior-idle-ms = <125>;
+            bindings = <&mkp >, <&mkp >;
+        };
 
 //End Behvaiors here
     };
@@ -203,7 +248,7 @@
         */
                  		&none                                                                                	&none
 
-		            &mtt  K_CMENU TAB		 &msk LGUI LGUI		      &mkp LCLK			&mtt ESC K_BACK		 &mkp RCLK
+		            &mtt  K_CMENU TAB		 &msk LGUI LGUI		      &mkp LCLK			&mtt ESC K_BACK		 &mou RCLK MCLK
 
     &mtt LS(Q) Q	&mtt LS(W) W      &mtt LS(E) E	&mtt LS(R) R     &mtt LS(T) T	&mtt LS(Y) Y	&mtt LS(U) U	&mtt LS(I) I	&mtt LS(O) O	    &mtt LS(P) P
     &mtt LS(A) A	&mtt LS(S) S      &mtt LS(D) D	&mtt LS(F) F     &mtt LS(G) G	&mtt LS(H) H	&mtt LS(J) J	&mtt LS(K) K	&mtt LS(L) L        &kp BSPC
@@ -220,7 +265,7 @@
             bindings = <        
                 		&none                                                                           	 &none
 
-    	         	&kp K_PREV			&kp K_VOL_DN	        &kp K_PP				&kp  K_VOL_UP			&kp K_NEXT
+    	         	&kp K_SCROLL_UP			&mtt K_PREV K_VOL_DN	        &hm2 EP_TOG K_PP		&mtt K_NEXT K_VOL_UP	&kp K_SCROLL_DOWN
 
     &mtt TILDE HASH	   	&mtt HOME N1	   &mtt UP	N2	   &mtt PG_UP   N3	   &mtt LBKT LPAR	&mtt RBKT RPAR	   &mtt LT UNDER     &mtt GT MINUS	 &mtt CARET PLUS	&mtt PERCENT AT
     &mtt EQUAL STAR		&mtt LEFT N4	   &mtt DOWN	N5	   &mtt RIGHT	N6	   &mtt BSLH SLASH	&mtt PIPE COLON	   &mtt AMPS SEMI    &mtt APOS APOS	 &mtt DQT DQT     	&mtt DEL BSPC
@@ -254,11 +299,11 @@
 
 		&none													&none
 
-    		&bt BT_SEL 0            	 &bt BT_SEL 1                 &bt BT_CLR                &bt BT_SEL 2             &bt BT_SEL 3
+    		&bt0            	 &bt1                 &bt BT_CLR                &bt2             &bt3
 
     &none       	&none   	&none     	&sys_reset	&ext_power EP_TOG	   &none         	&none	           &none           &none      	   &none
     &none   		&none	  	&none	 	&none     	&none	          	   &none     	 	&none	           &none	   &none      	   &none
-    &to  0  		&none    	&none    	&none		&bl BL_DEC       	   &bl BL_TOG   	&bl BL_INC         &none           &bootloader     &none
+    &CON  		&none    	&none    	&none		&bl BL_DEC       	   &bl BL_TOG   	&bl BL_INC         &none           &bootloader     &none
 
     		&to  0               		 &none	               	      &out OUT_TOG              &none                    &none
             >;
